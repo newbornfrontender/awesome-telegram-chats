@@ -134,7 +134,6 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [ITForge](https://t.me/itforge) - чат о python, парсинге сайтов и веб-разработке
 - [Python Community Chelyabinsk](https://t.me/pychel) - чат челябинского сообщества Python-разработчиков
 - [Чат IT-Страны](https://t.me/itbelarustalk) — чат белорусского IT-сообщества.
-- [Rollup](https://t.me/rollup_ru) — Русскоговорящее сообщество Rollup.js
 - [Visual Studio Code](https://t.me/vscode_ru) — Чат настройки и разработки плагинов Visual Studio Code
 - [Yii вакансии](https://t.me/yiijobs) — Yii - вакансии, работа, фриланс
 - [Feathers JS](https://t.me/featherjs) — Feathers JS — русскоговорящее сообщество
